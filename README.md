@@ -1,5 +1,2 @@
 # ST
-ST Repo
-
-
-Abel has changed some files
+This project is for resturant web based applications using MVC4
