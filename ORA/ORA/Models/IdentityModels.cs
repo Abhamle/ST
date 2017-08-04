@@ -29,5 +29,7 @@ namespace ORA.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<ORA.Models.RestaurantReview> RestaurantReviews { get; set; }
     }
 }
